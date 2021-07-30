@@ -1,6 +1,6 @@
 Microservice Kubernetes Sample
 =====================
-
+Credit : https://github.com/ewolff/microservice-kubernetes
 [Deutsche Anleitung zum Starten des Beispiels](WIE-LAUFEN.md)
 
 This sample is like the sample for my Microservices Book
